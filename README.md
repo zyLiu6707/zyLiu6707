@@ -1,5 +1,4 @@
-### Hi there, you can call me Zhengyang 👋
-
+## Hi there, you can call me Zhengyang 👋
 <!--
 **zyLiu6707/zyLiu6707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ I mainly use C++/Python
 - 💻 I’m currently working on [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
 - 🌱 I’m currently learning 🐍 Python
-- 📫 How to reach me: You can reach me on my [GitHub Discussion]()
+- 📫 How to reach me: You can reach me on my [GitHub Discussions](https://github.com/zyLiu6707/zyLiu6707/discussions)
 - ⚡ Fun fact: 
     - 🎶 Love rhythm games - my score of a song in game *Arcaea* once ranked global top 70
     - 🌌 Have a great passion on Astronomy - have a astronomical 🔭 in my home ;-)
