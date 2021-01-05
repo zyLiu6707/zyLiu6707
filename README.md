@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 🎉 Fun fact:
 -->
 ![](https://komarev.com/ghpvc/?username=zyLiu6707)
+
+[![Zhengyang's github stats](https://github-readme-stats.vercel.app/api?username=zyLiu6707&count_private=true)](https://github.com/zyLiu6707/github-readme-stats)
 - ⚡ I mainly use C++/Python
 - 🌱 I’m currently learning 🐍 Python
 - 📫 How to reach me: You can reach me on my [GitHub Discussions](https://github.com/zyLiu6707/zyLiu6707/discussions)
