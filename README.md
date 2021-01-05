@@ -1,4 +1,4 @@
-## Hi there, you can call me Zhengyang 👋
+# Hi there, you can call me Zhengyang 👋
 <!--
 **zyLiu6707/zyLiu6707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=zyLiu6707)
 - ⚡ I mainly use C++/Python
-- 💻 I’m currently working on [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
 - 🌱 I’m currently learning 🐍 Python
 - 📫 How to reach me: You can reach me on my [GitHub Discussions](https://github.com/zyLiu6707/zyLiu6707/discussions)
 - 🎉 Fun fact: 
     - 🎶 Love rhythm games - my score of a song in game *Arcaea* once ranked global top 70
     - 🌌 Have a great passion on Astronomy - have a astronomical 🔭 in my home ;-)
     - 👨‍🍳 Love cooking - fan of Gordon Ramsay and anime *Food Wars!: Shokugeki no Soma*
+    
+## 💻 Recent Activities
+- Working on the simplifes translation of my article [Arknights Pull Simulation](https://rpubs.com/zyLiu6707/arknights-pull-simulation)
+- Developing my repo [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
+    - Estimating the probability under the condition of configurable start point of the pity system counter
+    - Data visualization of the simulation results
+    - Multi-thread speed up
+
+<details>
+    <summary>More Activities...</summary>
+    
+- Finished the [documentation](https://rpubs.com/zyLiu6707/arknights-pull-simulation) of [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
+</details>
