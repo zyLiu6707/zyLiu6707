@@ -1,4 +1,4 @@
-# Hi there, you can call me Zhengyang 👋
+# 👋 Hi there, you can call me Zhengyang.
 <!--
 **zyLiu6707/zyLiu6707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
