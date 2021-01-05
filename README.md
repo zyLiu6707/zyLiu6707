@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     - 👨‍🍳 Love cooking - fan of Gordon Ramsay and anime *Food Wars!: Shokugeki no Soma*
     
 ## 💻 Recent Activities
-- Working on the simplifes translation of my article [Arknights Pull Simulation](https://rpubs.com/zyLiu6707/arknights-pull-simulation)
+- Working on the simplified Chinese translation of [my article](https://rpubs.com/zyLiu6707/arknights-pull-simulation)
 - Developing my repo [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
     - Estimating the probability under the condition of configurable start point of the pity system counter
     - Data visualization of the simulation results
