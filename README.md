@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me on my [GitHub Discussions](https://github.com/zyLiu6707/zyLiu6707/discussions)
 - 🎉 Fun fact: 
     - 🎶 Love rhythm games - my score of a song in game *Arcaea* once ranked global top 70
-    - 🌌 Have a great passion on Astronomy - have a astronomical 🔭 in my home ;-)
+    - 🌌 Have a great passion on Astronomy - have an astronomical 🔭 in my home ;-)
     - 👨‍🍳 Love cooking - fan of Gordon Ramsay and anime *Food Wars!: Shokugeki no Soma*
     
 ## 💻 Recent Activities
