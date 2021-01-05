@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-
+![](https://komarev.com/ghpvc/?username=zyLiu6707)
+- ⚡ I mainly use C++/Python
 - 💻 I’m currently working on [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
 - 🌱 I’m currently learning 🐍 Python
 - 📫 How to reach me: You can reach me on my [GitHub Discussion]()
