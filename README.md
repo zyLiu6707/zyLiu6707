@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me:
 - 😄 Pronouns: ...
-- ⚡ Fun fact:
+- 🎉 Fun fact:
 -->
 ![](https://komarev.com/ghpvc/?username=zyLiu6707)
 - ⚡ I mainly use C++/Python
 - 💻 I’m currently working on [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
 - 🌱 I’m currently learning 🐍 Python
 - 📫 How to reach me: You can reach me on my [GitHub Discussions](https://github.com/zyLiu6707/zyLiu6707/discussions)
-- ⚡ Fun fact: 
+- 🎉 Fun fact: 
     - 🎶 Love rhythm games - my score of a song in game *Arcaea* once ranked global top 70
     - 🌌 Have a great passion on Astronomy - have a astronomical 🔭 in my home ;-)
     - 👨‍🍳 Love cooking - fan of Gordon Ramsay and anime *Food Wars!: Shokugeki no Soma*
