@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     
 ## 💻 Recent Activities
 - Working on the simplified Chinese translation of [my article](https://rpubs.com/zyLiu6707/arknights-pull-simulation)
-- Fixed some typos and mistakes in the documentation mentioned above
+- Fixed some typos and mistakes in the article mentioned above
 - Developing my repo [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
     - Estimating the probability under the condition of configurable start point of the pity system counter
     - Data visualization of the simulation results
