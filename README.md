@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ## 💻 Recent Activities
 - Working my repo [Arknights-Pull-Simulation](https://github.com/zyLiu6707/Arknights-Pull-Simulation)
     - Fixed a bug and currently re-executing the simulation
-    - Will update the documentation after the simulation and data analysis is over
+    - Will update the documentation after the simulation and data analysis are over
     - Data visualization of the simulation results
     - Multi-thread speed up
